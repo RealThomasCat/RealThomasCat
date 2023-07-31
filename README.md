@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Yashveer Singh
 # 💫 About Me:
-🌱 I’m currently learning web development<br>⚡ I am a digital artist<br>📫 You can reach me at yashveer.rtc@gmail.com
+🌱 I’m currently doing frontend web development<br>⚡ I am also a UI/UX designer<br>📫 You can reach me at yashveer.rtc@gmail.com
 
 
 ## 🌐 Socials:
