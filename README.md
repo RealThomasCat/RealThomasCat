@@ -2,7 +2,7 @@
 <h3 align="center">I am a Frontend web developer and a UI/UX designer.</h3>
 
 - 🌱 I’m currently learning **Backend**
-- ⚡ I also make digital art
+- ⚡ I also do UI/UX
 - 📫 How to reach me **yashveer.rtc@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
