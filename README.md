@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashveer Singh</h1>
-<h3 align="center">I am a Frontend web developer and a UI/UX designer.</h3>
+<h3 align="center">I am a web developer and a UI/UX designer.</h3>
 
-- 🔭 I’m currently working on [Blog-bud](https://github.com/RealThomasCat/blog-bud)
+- 🔭 I’m currently working on [File-bud](https://github.com/RealThomasCat/file-bud)
 
 - 👨‍💻 All of my projects are available at [https://rtc-portfolio-app.netlify.app/](https://rtc-portfolio-app.netlify.app/)
 
