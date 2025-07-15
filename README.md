@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yashveer.rtc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19tkAVkpa2GetInaMLHnzFUJMWNFPjWKN/view](https://drive.google.com/file/d/19tkAVkpa2GetInaMLHnzFUJMWNFPjWKN/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19uKVDxvI2MNz6McH885GDN-JfFD_yqB8/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
