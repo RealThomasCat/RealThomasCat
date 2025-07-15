@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashveer Singh</h1>
-<h3 align="center">I am a web developer and a UI/UX designer.</h3>
+<h3 align="center">I am a frontend developer.</h3>
 
-- 💻 I’m currently as software developer at [VerifiedTalent](https://www.verifiedtalent.ai/)
+- 💻 I’m currently working as a software developer at [VerifiedTalent](https://www.verifiedtalent.ai/)
 
 - 🔭 My latest project is [File-bud](https://github.com/RealThomasCat/file-bud)
 
