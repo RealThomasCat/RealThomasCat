@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yashveer Singh</h1>
 <h3 align="center">I am a web developer and a UI/UX designer.</h3>
 
-- 🔭 I’m currently working on [File-bud](https://github.com/RealThomasCat/file-bud)
+- 💻 I’m currently as software developer at [VerifiedTalent](https://www.verifiedtalent.ai/)
 
-- 👨‍💻 All of my projects are available at [https://rtc-portfolio-app.netlify.app/](https://rtc-portfolio-app.netlify.app/)
+- 🔭 My latest project is [File-bud](https://github.com/RealThomasCat/file-bud)
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rtc-portfolio-app.netlify.app/)
 
 - 📫 How to reach me **yashveer.rtc@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19uKVDxvI2MNz6McH885GDN-JfFD_yqB8/view)
+- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/19uKVDxvI2MNz6McH885GDN-JfFD_yqB8/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
