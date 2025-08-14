@@ -5,7 +5,7 @@
 
 - 🔭 My latest project is [File-bud](https://github.com/RealThomasCat/file-bud)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://rtc-portfolio-app.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yashveer-singh.netlify.app/)
 
 - 📫 How to reach me **yashveer.rtc@gmail.com**
 
